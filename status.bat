@@ -1,0 +1,2 @@
+zip -V
+which zip
